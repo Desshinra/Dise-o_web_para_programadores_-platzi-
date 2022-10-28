@@ -1,10 +1,15 @@
-BRIEF Y REQUERIMIENTOS TECNICOS.
----------------------------------------------------------------------------------------------
-El primer elemento que debemos tener claro para construir una aplicación es el BRIEF.
----------------------------------------------------------------------------------------------
-***¿Qué es el BRIEF? Es la hoja de ruta para empezar a diseñar. Es lo que se habló en los pasos del proceso creativo:
+------------------------------------
+__BRIEF Y REQUERIMIENTOS TECNICOS.__
+____________________________________
 
- investigar y recopilar toda la información relativa con el proyecto, con el problema a solucionar. Es donde apuntamos esos datos que hemos recopilado.
+El primer elemento que debemos tener claro para construir una aplicación es el BRIEF.
+
+¿Qué es el BRIEF? 
+
+Es la hoja de ruta para empezar a diseñar. Es parte del proceso creativo.
+
+
+ Investigar y recopilar toda la información relativa con el proyecto, con el problema a solucionar. Es donde apuntamos esos datos que hemos recopilado.
 Las secciones más comunes son:
 
 • Descripción del cliente o producto.

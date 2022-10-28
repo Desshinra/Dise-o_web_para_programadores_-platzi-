@@ -1,11 +1,15 @@
-***Balance***: La estructura y estabilidad de una composición en donde la posición de cada elemento está dada por su peso visual. puede ser un balance simétrico o asimétrico.
+---------------------
+__CONCEPTOS BÁSICOS__
+_____________________
+
+• Balance: La estructura y estabilidad de una composición en donde la posición de cada elemento está dada por su peso visual. puede ser un balance simétrico o asimétrico.
 ________________________________________________________:::________________________________________________________
-***Contraste***: lo usamos para señalar un concepto marcando la diferencia, ya sea por tamaño, color, etc. de dos elementos distintos.
+• Contraste: lo usamos para señalar un concepto marcando la diferencia, ya sea por tamaño, color, etc. de dos elementos distintos.
 ________________________________________________________:::________________________________________________________
-***Alineación***: nos permite crear una ruta visual entre diferentes elementos que queremos señalar al usuario.
+• Alineación: nos permite crear una ruta visual entre diferentes elementos que queremos señalar al usuario.
 ________________________________________________________:::________________________________________________________
-***Proximidad***: nos permite agrupar diferentes elementos. Puede ser por formas, colores, etc. o físicamente.
+• Proximidad: nos permite agrupar diferentes elementos. Puede ser por formas, colores, etc. o físicamente.
 ________________________________________________________:::________________________________________________________
-***Repetición***: se usa para generar un concepto de marca. Muchas maras usan siempre los mismos colores, formas, tipos de letras, etc. Ayuda a reforzar un concepto.
+• Repetición: se usa para generar un concepto de marca. Muchas maras usan siempre los mismos colores, formas, tipos de letras, etc. Ayuda a reforzar un concepto.
 ________________________________________________________:::________________________________________________________
-***Espacio***: El especio lo podemos aprovechar colocando elementos de muchas maneras. Podemos poner elementos para reforzar una idea, siempre evitando recargar la composición.
+• Espacio: El especio lo podemos aprovechar colocando elementos de muchas maneras. Podemos poner elementos para reforzar una idea, siempre evitando recargar la composición.

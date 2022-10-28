@@ -21,6 +21,7 @@ Los colores se asocian a ciertos sentimientos:
 
 
 La idea es que uses la teoría del color para elegir los colores de tu aplicación según el problema que resuelve.
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 Otros tips para seleccionar los colores:
